@@ -24,7 +24,7 @@
   "devDependencies": {
     "@rollup/plugin-replace": "^2.3.1",
     "@stencil/core": "^1.12.3",
-    "rollup": "^2.3.4",
+    "rollup": "^3.29.5",
     "workbox-build": "4.3.1"
   },
   "license": "MIT",
